@@ -7,6 +7,7 @@ Wec devloper
 I'm New in code everyday
 
 * 🌍  I'm based in Thailand
+* 🏫  I'm studying at Computer Engineering, SUT, THAILAND 
 * ✉️  You can contact me at [sptantai1112@gmail.ocm](mailto:sptantai1112@gmail.ocm)
 
 <p align="left">
