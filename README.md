@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tantai Kaewphap
 ========================================================================================================================================
 
-Wec developer
+Web developer
 ------------
 
-I'm New in code everyday
+I'm new to code every day
 
 * 🌍  I'm based in Thailand
 * 🏫  I'm studying at Computer Engineering, SUT, THAILAND 
